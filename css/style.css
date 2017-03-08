@@ -48,8 +48,13 @@ h2, h3, h4, h5 {
   padding-right: 5%;
 }
 
+.course-type {
+  padding: 0;
+  padding-top: 10px;
+}
 
 .date-text {
+  padding-right: 5px;
   font-style: italic;
   font-size: 14px;
   color: #999999;
